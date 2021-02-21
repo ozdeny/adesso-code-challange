@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AdessoRideShare/bin/Debug/netcoreapp3.1
+/.vs/AdessoRideShare
+/AdessoRideShare.Core/bin/Debug/netstandard2.0
+/AdessoRideShare.Core/obj
+/AdessoRideShare.Data/bin/Debug/netstandard2.1
+/AdessoRideShare.Data/obj
+/AdessoRideShare.Services/bin/Debug/netstandard2.0
+/AdessoRideShare.Services/obj
